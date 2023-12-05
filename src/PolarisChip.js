@@ -42,7 +42,8 @@ export class PolarisChip extends LitElement {
     `;
   }
 
-  constructor() {
+  constructor() { 
+
     super();
     this.name= ""; 
     this.link = "https://www.psu.edu/news/research/"; 
